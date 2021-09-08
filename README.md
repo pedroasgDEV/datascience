@@ -1,2 +1,2 @@
 # datascience
-Estudo de data science
+Estudo de data science com python 
